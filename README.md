@@ -45,7 +45,7 @@ This is will walk you through installing it. Note, this project is intended to b
 
 ### Installation
 
-Make sure you download the Source Code to run the python module. The code you need to run will be in the Divora AI folder. Also before running, make sure you already had a directory opened before running this. After all these steps are completed, open finder, find the directory the zip file is in, and then exstract it.
+Make sure you download the Source Code to run the python module. The code you need to run will be in the Divora AI folder. Also before running, make sure you already had a directory opened before running this. After all these steps are completed, open finder, find the directory to the zip file, and then exstract it.
    ```
    git clone https://github.com/divoratech/Divora-AI.git
    ```
